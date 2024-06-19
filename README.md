@@ -23,3 +23,4 @@ The JobCard component displays information about a single job, including the job
 
 Props: Receives title, company, location, salary, and image.
 Usage: Used in lists to display job details.
+[img](./assets/ASS%204.jpg)
